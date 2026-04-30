@@ -4,7 +4,8 @@
 
 ![Banner](Images/Marketin_Dash1.png)
 
-> **Plateforme analytique complète** basée sur Snowflake pour analyser les campagnes marketing, promotions, ventes et performance client dans le secteur Food & Beverage.
+
+> **Plateforme analytique complète** basée sur Snowflake pour analyser les campagnes marketing, promotions, ventes et performance client de l'entreprise Anycompany Food & Beverage (entreprise fictive).
 
 ![Architecture](https://img.shields.io/badge/Architecture-Snowflake%20Lakehouse-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-ETL%2BELC-green?style=for-the-badge)
