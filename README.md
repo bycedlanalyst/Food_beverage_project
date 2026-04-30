@@ -695,10 +695,14 @@ A : Oui, `st.download_button()` pour télécharger les DataFrames Streamlit
 # 4. Lancez les dashboards Streamlit
 
 streamlit run Streamlit/Marketing_roi.py
-```
-### Guidelines
-David ATCHORI
-Cédric BOIMIN
+---
+
+## 👥 Équipe
+
+| 👤 Auteur | 🤝 Responsabilités |
+|---------|-------------------|
+| **David Atchori** | Setup, Bronze, Silver, Tests qualité |
+| **Cédric BOIMIN** | Gold, Streamlit, Automatisation, Documentation |
 
 ---
 
