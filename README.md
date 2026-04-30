@@ -699,12 +699,8 @@ streamlit run Streamlit/Marketing_roi.py
 
 ---
 
-### **✨ Fait avec ❤️ pour l'analytics Food & Beverage ✨**
-
-<sub>Architecture scalable • Best practices Snowflake • Prêt pour production</sub>
-
-Plateforme analytics complète | ETL pipelines | 3 Dashboards interactifs | 15+ Analyses
-
+Réalisé par: David ATCHORI
+             Cédric BOIMIN
 ---
 
 **[⬆ Retour en haut](#-anycompany-food--beverage---data-analytics-lab)**
