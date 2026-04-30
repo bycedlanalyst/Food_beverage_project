@@ -116,7 +116,7 @@ streamlit run Streamlit/Sales_dashboard.py
 
 ---
 
-## 📊 Les 3 Dashboards à un coup d'œil
+## 📊 Les 3 Dashboards en un coup d'œil
 
 | Dashboard | Données | Filtres | Cas d'usage |
 |-----------|---------|---------|------------|
