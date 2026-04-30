@@ -15,7 +15,7 @@
 
 ---
 
-## � Architecture & Flux Données
+##   Architecture & Flux Données
 
 <div align="center">
 
@@ -695,15 +695,19 @@ A : Oui, `st.download_button()` pour télécharger les DataFrames Streamlit
 # 4. Lancez les dashboards Streamlit
 
 streamlit run Streamlit/Marketing_roi.py
+```
+
 ---
----
+
 ## 👥 Équipe
 
-| 👤 Auteur | 🤝 Responsabilités |
-|---------|-------------------|
-| **David Atchori** | Setup, Bronze, Silver, Tests qualité |
-| **Cédric BOIMIN** | Gold, Streamlit, Automatisation, Documentation |
----
+Le projet a été réalisé en binôme avec une répartition transverse des tâches :
+
+| Membre | Rôles | Tâches principales |
+|:--- |:--- |:--- |
+| **David ATCHOR** | Data Engineer & Data Analyst | • Configuration de l'environnement Snowflake et création des stages S3.<br>• Script d'ingestion `Load_data.sql` (Phase 1).<br>• Nettoyage et typage des données dans `clean_data.sql` (Phase 2).<br>• Développement du dashboard `Marketing_roi.py` et intégration Altair. |
+| **Cédric BOIMIN** | Business Analyst & Analytics Engineer | • Modélisation du Data Product et création des tables `ANALYTICS` (Phase 3).<br>• Rédaction des analyses SQL de performance (`campaign_performance.sql`).<br>• Développement des dashboards `Sales_dashboard.py` et `Promotion_analysis.py`.<br>• Analyse des insights business et documentation du projet. |
+
 ---
 
 **[⬆ Retour en haut](#-anycompany-food--beverage---data-analytics-lab)**
