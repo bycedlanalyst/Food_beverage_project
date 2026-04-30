@@ -142,10 +142,8 @@ Food_beverage_project/
 │   ├── Promotion_analysis.py      ← Dashboard promotions 💰
 │   └── Sales_dashboard.py         ← Dashboard ventes 📊
 │
-├── 📂 ML/                                     
-│   └── Customer_segmentation.ipynb    ← Machine Learning : K-Means clustering
-│
-├── 📂 Images/                              
+├── 📂 Images/
+│   ├── Food_bevrage_.png                 
 │   ├── Marketin_Dash1.png         ← Capture Marketing ROI Dashboard
 │   ├── Promotion_Dash1.png        ← Capture Promotion Analysis Dashboard
 │   └── Sales_Dash1.png            ← Capture Sales Dashboard
