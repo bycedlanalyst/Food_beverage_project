@@ -701,11 +701,14 @@ streamlit run Streamlit/Marketing_roi.py
 
 ---
 
-### **✨ Fait avec ❤️ pour l'analytics Food & Beverage ✨**
+## 👥 Équipe
 
-<sub>Architecture scalable • Best practices Snowflake • Prêt pour production</sub>
+Le projet a été réalisé en binôme avec une répartition transverse des tâches :
 
-Plateforme analytics complète | ETL pipelines | 3 Dashboards interactifs | 15+ Analyses
+| Membre | Rôles | Tâches principales |
+|:--- |:--- |:--- |
+| **Ton Nom** | Data Engineer & Data Analyst | • Configuration de l'environnement Snowflake et création des stages S3.<br>• Script d'ingestion `Load_data.sql` (Phase 1).<br>• Nettoyage et typage des données dans `clean_data.sql` (Phase 2).<br>• Développement du dashboard `Marketing_roi.py` et intégration Altair. |
+| **David ATCHORI** | Business Analyst & Analytics Engineer | • Modélisation du Data Product et création des tables `ANALYTICS` (Phase 3).<br>• Rédaction des analyses SQL de performance (`campaign_performance.sql`).<br>• Développement des dashboards `Sales_dashboard.py` et `Promotion_analysis.py`.<br>• Analyse des insights business et documentation du projet. |
 
 ---
 
