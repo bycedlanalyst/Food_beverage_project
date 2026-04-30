@@ -4,8 +4,7 @@
 
 ![Banner](Images/Marketin_Dash1.png)
 
-
-> **Plateforme analytique complète** basée sur Snowflake pour analyser les campagnes marketing, promotions, ventes et performance client de l'entreprise Anycompany Food & Beverage (entreprise fictive).
+> **Plateforme analytique complète** basée sur Snowflake pour analyser les campagnes marketing, promotions, ventes et performance client dans le secteur Food & Beverage.
 
 ![Architecture](https://img.shields.io/badge/Architecture-Snowflake%20Lakehouse-blue?style=for-the-badge)
 ![Pipeline](https://img.shields.io/badge/Pipeline-ETL%2BELC-green?style=for-the-badge)
@@ -16,7 +15,7 @@
 
 ---
 
-##   Architecture & Flux Données
+## � Architecture & Flux Données
 
 <div align="center">
 
@@ -700,14 +699,11 @@ streamlit run Streamlit/Marketing_roi.py
 
 ---
 
-## 👥 Équipe
+### **✨ Fait avec ❤️ pour l'analytics Food & Beverage ✨**
 
-Le projet a été réalisé en binôme avec une répartition transverse des tâches :
+<sub>Architecture scalable • Best practices Snowflake • Prêt pour production</sub>
 
-| Membre | Rôles | Tâches principales |
-|:--- |:--- |:--- |
-| **David ATCHORI** | Data Engineer & Data Analyst | • Configuration de l'environnement Snowflake et création des stages S3.<br>• Script d'ingestion `Load_data.sql` (Phase 1).<br>• Nettoyage et typage des données dans `clean_data.sql` (Phase 2).<br>• Développement du dashboard `Marketing_roi.py` et intégration Altair. |
-| **Cédric BOIMIN** | Business Analyst & Analytics Engineer | • Modélisation du Data Product et création des tables `ANALYTICS` (Phase 3).<br>• Rédaction des analyses SQL de performance (`campaign_performance.sql`).<br>• Développement des dashboards `Sales_dashboard.py` et `Promotion_analysis.py`.<br>• Analyse des insights business et documentation du projet. |
+Plateforme analytics complète | ETL pipelines | 3 Dashboards interactifs | 15+ Analyses
 
 ---
 
