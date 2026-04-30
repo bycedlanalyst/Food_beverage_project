@@ -1,9 +1,9 @@
 # 🏪 AnyCompany Food & Beverage - Data Analytics Lab
 
 <div align="center">
-  
+---  
 > **Plateforme analytique complète** basée sur Snowflake pour analyser les campagnes marketing, promotions, ventes et performance client dans le secteur Food & Beverage.
-
+---
 ![Banner](Images/Food_bevrage_.png)
 
 
