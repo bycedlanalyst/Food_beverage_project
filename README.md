@@ -696,14 +696,14 @@ A : Oui, `st.download_button()` pour télécharger les DataFrames Streamlit
 
 streamlit run Streamlit/Marketing_roi.py
 ---
-
+---
 ## 👥 Équipe
 
 | 👤 Auteur | 🤝 Responsabilités |
 |---------|-------------------|
 | **David Atchori** | Setup, Bronze, Silver, Tests qualité |
 | **Cédric BOIMIN** | Gold, Streamlit, Automatisation, Documentation |
-
+---
 ---
 
 **[⬆ Retour en haut](#-anycompany-food--beverage---data-analytics-lab)**
