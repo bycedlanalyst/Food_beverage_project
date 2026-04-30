@@ -577,27 +577,6 @@ SELECT COUNT(*) AS missing FROM SILVER.PROMOTIONS_CLEAN WHERE PROMOTION_ID IS NU
 SELECT COUNT(*) AS invalid FROM SILVER.PROMOTIONS_CLEAN WHERE START_DATE > END_DATE
 ```
 
----
-
-## ❓ FAQ
-
-**Q : Comment ajouter une nouvelle source de données?**
-A : 
-1. Créer table BRONZE dans `Load_data.sql`
-2. Ajouter nettoyage dans `clean_data.sql` avec vérifications
-3. Joindre à ANALYTICS si pertinent
-
-**Q : Les dashboards mettent du temps à charger?**
-A : Augmentez le cache TTL ou créez des agrégations supplémentaires en SILVER
-
-**Q : Comment filtrer les dashboards par dates?**
-A : Ajouter un `st.sidebar.date_input()` et adapter les `WHERE` clauses
-
-**Q : Puis-je exporter les données?**
-A : Oui, `st.download_button()` pour télécharger les DataFrames Streamlit
-
----
-
 ## 🎯 Prochaines étapes recommandées
 
 1. **Améliorer** : Ajouter Machine Learning (clustering clients, prédiction churn)
