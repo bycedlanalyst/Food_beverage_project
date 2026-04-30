@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Banner](Images/Marketin_Dash1.png)
+![Banner](Images/Food_bevrage_.png)
 
 > **Plateforme analytique complète** basée sur Snowflake pour analyser les campagnes marketing, promotions, ventes et performance client dans le secteur Food & Beverage.
 
