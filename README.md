@@ -697,8 +697,8 @@ A : Oui, `st.download_button()` pour télécharger les DataFrames Streamlit
 streamlit run Streamlit/Marketing_roi.py
 ```
 ### Guidelines
-- David ATCHORI
-- Cédric BOIMIN
+David ATCHORI
+Cédric BOIMIN
 
 ---
 
