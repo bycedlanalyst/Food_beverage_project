@@ -698,9 +698,10 @@ streamlit run Streamlit/Marketing_roi.py
 ```
 
 ---
+## Auteur
 
-Réalisé par: David ATCHORI
-             Cédric BOIMIN
+David ATCHORI
+Cédric BOIMIN
 ---
 
 **[⬆ Retour en haut](#-anycompany-food--beverage---data-analytics-lab)**
